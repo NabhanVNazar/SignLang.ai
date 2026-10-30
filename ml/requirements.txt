@@ -1,0 +1,4 @@
+numpy>=1.26,<3
+torch>=2.2,<3
+Pillow>=10,<13
+pytest>=8,<9

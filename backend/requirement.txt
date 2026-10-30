@@ -1,0 +1,6 @@
+supabase
+python-dotenv
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1
+httpx>=0.27,<1
+Pillow>=10,<13
